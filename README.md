@@ -1,2 +1,2 @@
 # Project's Description
-some descriptiom
+some description
